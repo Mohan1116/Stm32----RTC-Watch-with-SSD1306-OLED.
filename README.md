@@ -6,7 +6,7 @@
         1 STM32 Blue Pill
         Breadboard, jumper wires.
         
-![Wiring setup](IMG_20261021_003917.jpg)   
+![Wiring setup](version%201/IMG_20261021_003917.jpg)
 
 ## Here are some important points about this 
         We used the buttons with the edge detection system for accurate detection.
@@ -20,3 +20,4 @@
         HAL_GETTICK() always increments its value in milliseconds until the microcontroller powers off
 ## working 
 please check the video to see how it work
+[Watch the Working Hardware Video](version%201/VID20261021002959%20(1)%20(2).mp4)
